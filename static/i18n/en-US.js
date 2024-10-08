@@ -300,15 +300,15 @@ langs.enUS = {
   '你们记录我的上网流量日志吗？': 'Do you keep records of my internet traffic logs?',
   '使用的流量将乘以倍率进行扣除': 'The used traffic will be deducted multiplied by the multiple',
   '划转后的余额仅用于X消费使用': 'The balance after transfer is only used for {name} consumption',
-  '大陆首选 亚洲区最佳 VPN': 'Mainland first choice Best VPN in Asia',
+  '大陆首选 亚洲区最佳 Network': 'Mainland first choice Best Network in Asia',
   '打开 Telegram 搜索': 'Open Telegram Search',
-  '立即尝试多协议 VPN 服务': 'Try multi-protocol VPN service immediately',
+  '立即尝试多协议 Network 服务': 'Try multi-protocol Network service immediately',
   '银行户口、电邮密码、个人资料': 'Bank accounts, email passwords, personal information',
-  '什么是 VPN ？它有何帮助？': 'What is a VPN? How can it help?',
+  '什么是 Network ？它有何帮助？': 'What is a Network? How can it help?',
   '借道无关 IP 网上冲浪更匿名': 'Surf the web more anonymously by borrowing unrelated IPs',
   '多组服务器集群覆盖多个国家地区': 'Multiple server clusters cover multiple countries and regions',
   '最先进开源协议和我们的自研秘技': 'The most advanced open source protocols and our proprietary techniques',
-  '你们的 VPN 能在哪些设备上运作？': 'On which devices can your VPN operate?',
+  '你们的 Network 能在哪些设备上运作？': 'On which devices can your Network operate?',
   '在这里，您可以设置和管理集成设置。': 'Here you can set up and manage integrated settings.',
   '流量混淆有助于逃避审查并提高速度。': 'Traffic confusion helps evade censorship and improve speed.',
   '我们致力于让您的互联网更快，更安全。': 'We are committed to making your internet faster and safer.',
@@ -323,7 +323,7 @@ langs.enUS = {
     'Please note that modifying the subscription will cause the current subscription to be overwritten by the new subscription.',
   '能穿越最严酷的防火墙 - 中国的 GFW。': "Can penetrate the harshest firewall - China's GFW.",
   '请检查您的URL是否正确, 或点击重新登录': 'Please check if your URL is correct or click to log in again',
-  '为什么你们的私有 VPN 协议能做到稳定高速？': 'Why can your proprietary VPN protocol achieve stable high speed?',
+  '为什么你们的私有 Network 协议能做到稳定高速？': 'Why can your proprietary Network protocol achieve stable high speed?',
   '绑定Telegram Bot，获取更多便捷服务': 'Bind Telegram Bot to get more convenient services',
   '无状态和无连接减少流量模式特征提高设备电源效率。':
     'Stateless and connectionless reduce traffic patterns to improve device power efficiency.',
@@ -338,7 +338,7 @@ langs.enUS = {
   '公式：(实际上行 + 实际下行) x 扣费倍率 = 扣除流量': 'Formula: (Actual uplink + actual downlink) x deduction multiple = deducted traffic',
   '我们也照顾来自世界其他地方的客户，接受 PayPal 付款。':
     'We also take care of customers from other parts of the world and accept PayPal payments.',
-  '什么是 ShadowSocks 和 ShadowSocksR？': 'What are ShadowSocks and ShadowSocksR?',
+  '什么是 影-梭 和 影-梭R？': 'What are 影-梭 and 影-梭R?',
   '我们所有套餐都有固定的流量限制。但是，所有套餐都是不限速使用。':
     'All our packages have fixed data limits. However, all packages are unlimited speed.',
   '高价购入IPLC内网专线，精心优化传输算法，只为您上网更爽快。':
@@ -349,10 +349,10 @@ langs.enUS = {
     'Headquartered in the United States, a team of professionally trained computer scientists and network engineers.',
   '即使通过公共WiFi上网，高强度数据加密也能保护你的私隐不被监视。':
     'Even when accessing the Internet through public WiFi, high-strength data encryption can protect your privacy from being monitored.',
-  '最先进流量隐藏技术，将VPN穿墙流量化身网页浏览，免于防火墙干扰。':
-    'The most advanced traffic hiding technology disguises VPN wall-piercing traffic as web browsing to avoid firewall interference.',
-  '私密浏览？浏览器无痕模式不够。我们的VPN为您隐藏IP以掩藏踪迹。':
-    'Private browsing? Incognito mode in browsers is not enough. Our VPN hides your IP to cover your tracks.',
+  '最先进流量隐藏技术，将Network穿墙流量化身网页浏览，免于防火墙干扰。':
+    'The most advanced traffic hiding technology disguises Network wall-piercing traffic as web browsing to avoid firewall interference.',
+  '私密浏览？浏览器无痕模式不够。我们的Network为您隐藏IP以掩藏踪迹。':
+    'Private browsing? Incognito mode in browsers is not enough. Our Network hides your IP to cover your tracks.',
   '记，也不记。我们会在短时间内记录您的流量元数据，并定期对删除老数据。':
     'Remember or not. We will record your traffic metadata for a short time and regularly delete old data.',
   '我们努力改善您的互联网体验，让您自由重来：免受审查，监控和电讯商限速。':
@@ -376,38 +376,38 @@ langs.enUS = {
     'The nodes fully unlock Netflix, Tiktok and other streaming media services. You can enjoy foreign exclusive media programs from anywhere.',
   '只为您自己的用量买单，别再补贴BT爱好者啦。如果您更喜欢精致美食，为什么要去自助餐厅吃到饱？':
     "Only pay for your own usage, don't subsidize BT enthusiasts anymore. If you prefer delicate food, why go to a buffet restaurant to eat as much as you want?",
-  'ShadowSocksR 是前者的主要分支，修补了安全漏洞，扩展了加密选项，增加了流量混淆能力。':
-    'ShadowSocksR is the main branch of the former, patched security vulnerabilities, expanded encryption options, and increased traffic obfuscation capabilities.',
+  '影-梭R 是前者的主要分支，修补了安全漏洞，扩展了加密选项，增加了流量混淆能力。':
+    '影-梭R is the main branch of the former, patched security vulnerabilities, expanded encryption options, and increased traffic obfuscation capabilities.',
   '如果您的订阅地址或信息发生泄露可以执行此操作。重置后您的 UUID 及订阅将会变更，需要重新导入订阅。':
     'If your subscription address or information is leaked, you can perform this operation. After resetting, your UUID and subscription will change and you need to re-import the subscription.',
   '我们相信我们的定价结构是公平和合理的。一些所谓不限流量的商家会使用一些垃圾线路，导致您的上网体验很差。':
     'We believe our pricing structure is fair and reasonable. Some so-called unlimited traffic merchants will use some garbage lines, resulting in a very poor internet experience.',
   '如阻止每一个连接，随之而来的附带质押损害及其昂贵，也就促使审查机构放行看似合规的网路流量。这样，才有了我们的质押自由。':
     'Blocking every connection would lead to collateral damages and high costs, prompting censorship agencies to pass seemingly compliant network traffic. This is how we have bail freedom.',
-  '在防火墙检查时，混淆后的 VPN 流量看似普通网上冲浪或电影串流。因此，审查者无法确定哪些流量需要阻止，哪些流量可以放行。':
-    'When the firewall checks, the obfuscated VPN traffic looks like normal online surfing or movie streaming. Therefore, censors cannot determine which traffic needs to be blocked and which traffic can pass.',
-  'ShadowSocks 是一种无连接无状态的代理协议。它承载 TCP UDP 数据，可轻松穿透世界上最强国家防火墙，中国的 GFW 。':
-    "ShadowSocks is a connectionless and stateless proxy protocol. It carries TCP UDP data and can easily penetrate the world's strongest national firewall, China's GFW.",
-  '我们自研的私有协议，可以模拟多种网页浏览场景。使得防火墙无法可靠区分 VPN 数据浏览。如强行阻拦亦会影响正常使用网络，因此连接无法有效拦截。':
-    'Our proprietary protocol can simulate a variety of web browsing scenarios, making it impossible for firewalls to reliably distinguish between VPN data browsing. Forced blocking will also affect normal network use, so the connection cannot be effectively intercepted.',
-  'VPN 提供了一系列好处：通过加密，通讯数据变得难以破解；藉由隧道，线上活动的细节内容被掩藏；借助转发，网路流量看似来自无关的 IP 地址和地理位置。':
-    'VPN provides a series of benefits: through encryption, communication data becomes difficult to crack; through tunnels, the details of online activities are hidden; with the help of forwarding, network traffic appears to come from unrelated IP addresses and locations.',
+  '在防火墙检查时，混淆后的 Network 流量看似普通网上冲浪或电影串流。因此，审查者无法确定哪些流量需要阻止，哪些流量可以放行。':
+    'When the firewall checks, the obfuscated Network traffic looks like normal online surfing or movie streaming. Therefore, censors cannot determine which traffic needs to be blocked and which traffic can pass.',
+  '影-梭 是一种无连接无状态的代理协议。它承载 TCP UDP 数据，可轻松穿透世界上最强国家防火墙，中国的 GFW 。':
+    "影-梭 is a connectionless and stateless proxy protocol. It carries TCP UDP data and can easily penetrate the world's strongest national firewall, China's GFW.",
+  '我们自研的私有协议，可以模拟多种网页浏览场景。使得防火墙无法可靠区分 Network 数据浏览。如强行阻拦亦会影响正常使用网络，因此连接无法有效拦截。':
+    'Our proprietary protocol can simulate a variety of web browsing scenarios, making it impossible for firewalls to reliably distinguish between Network data browsing. Forced blocking will also affect normal network use, so the connection cannot be effectively intercepted.',
+  'Network 提供了一系列好处：通过加密，通讯数据变得难以破解；藉由隧道，线上活动的细节内容被掩藏；借助转发，网路流量看似来自无关的 IP 地址和地理位置。':
+    'Network provides a series of benefits: through encryption, communication data becomes difficult to crack; through tunnels, the details of online activities are hidden; with the help of forwarding, network traffic appears to come from unrelated IP addresses and locations.',
   '于X到期，距离到期还有X天，已用流量将在X日后重置':
     'Expires on {expiredDate}, {expiredResidue} left until expiration, used traffic will be reset {resetDay} days later',
-  '市面上几乎所有的电子设备，我们都能支持。鉴于我们支援多种开源和自研的 VPN 协议，我们相信您可以在几乎任何市售设备上轻松连接到我们的 VPN 网络。':
-    'We can support almost all electronic devices on the market. Given that we support a variety of open source and proprietary VPN protocols, we believe you can easily connect to our VPN network on almost any commercially available device.',
-  'VPN 是虚拟专用网络（Virtual Private Network）的缩写。它通过在公共网络上建立专用隧道并加密其中传输的数据来保护两个或多个设备之间的通信。':
-    'VPN is the abbreviation of Virtual Private Network. It establishes private tunnels over public networks and encrypts data transmission to protect communication between two or more devices.',
-  'ShadowSocks（简称 SS，又称影梭）是一种加密的无状态代理协议。它在传输层工作，中继 TCP 和 UDP 流量。它可以轻松穿透最强大的国家级防火墙（中国的 GFW ）。':
-    "ShadowSocks (abbreviated as SS, also known as ShadowShuttle) is an encrypted stateless proxy protocol. It works at the transport layer and relays TCP and UDP traffic. It can easily penetrate the most powerful national firewall (China's GFW).",
+  '市面上几乎所有的电子设备，我们都能支持。鉴于我们支援多种开源和自研的 Network 协议，我们相信您可以在几乎任何市售设备上轻松连接到我们的 Network 网络。':
+    'We can support almost all electronic devices on the market. Given that we support a variety of open source and proprietary Network protocols, we believe you can easily connect to our Network network on almost any commercially available device.',
+  'Network 是虚拟专用网络（Virtual Private Network）的缩写。它通过在公共网络上建立专用隧道并加密其中传输的数据来保护两个或多个设备之间的通信。':
+    'Network is the abbreviation of Virtual Private Network. It establishes private tunnels over public networks and encrypts data transmission to protect communication between two or more devices.',
+  '影-梭（简称 SS，又称影梭）是一种加密的无状态代理协议。它在传输层工作，中继 TCP 和 UDP 流量。它可以轻松穿透最强大的国家级防火墙（中国的 GFW ）。':
+    "影-梭 (abbreviated as SS, also known as ShadowShuttle) is an encrypted stateless proxy protocol. It works at the transport layer and relays TCP and UDP traffic. It can easily penetrate the most powerful national firewall (China's GFW).",
   '我们接受世界各地发行的主要信用卡。包括 Visa、 MasterCard、 American Express、 Discover、 Diners Club、 JCB 和中国银联。':
     'We accept major credit cards issued around the world, including Visa, MasterCard, American Express, Discover, Diners Club, JCB and China UnionPay.',
-  'ShadowSocksR（简称 SSR）是 SS 的主要分支。在 SS 的基础上，SSR 修补了安全漏洞，扩展了密码套件选项，增加了流量混淆，并提高了运营商级别的 QoS 优先级。':
-    'ShadowSocksR (abbreviated as SSR) is the main branch of SS. On the basis of SS, SSR patched security vulnerabilities, expanded cipher suite options, added traffic obfuscation, and improved operator-level QoS priorities.',
-  '交通混淆和质押自由是有效规避互联网封锁的基石。混淆将 VPN 流量伪装成常规的 Web 浏览，审查者无从分辨；质押自由意味着，由于误封的成本过高，审查机构不会阻止无法明确分辨的流量。':
-    'Traffic obfuscation and bail freedom are the cornerstones of effectively circumventing Internet censorship. Obfuscation disguises VPN traffic as normal web browsing, leaving censors indistinguishable; bail freedom means that due to the high cost of false blocking, censorship agencies will not block traffic that cannot be clearly distinguished.',
-  'V2Ray 是一个流量转发软件平台。它支持多种代理协议，并允许这些协议与多种传输层协议配合使用。而 VMess 是这个平台上原创的代理协议。与 TLS 传输方式配合使用的时候，他可以完美模拟 HTTPS 上网浏览。':
-    'V2Ray is a traffic forwarding software platform. It supports multiple proxy protocols and allows these protocols to be used with multiple transport layer protocols. VMess is an original proxy protocol on this platform. When used with TLS transport, it can perfectly simulate HTTPS web browsing.',
+  '影-梭R（简称 影-梭R）是 SS 的主要分支。在 SS 的基础上，影-梭R 修补了安全漏洞，扩展了密码套件选项，增加了流量混淆，并提高了运营商级别的 QoS 优先级。':
+    '影-梭R (abbreviated as 影-梭R) is the main branch of SS. On the basis of SS, 影-梭R patched security vulnerabilities, expanded cipher suite options, added traffic obfuscation, and improved operator-level QoS priorities.',
+  '交通混淆和质押自由是有效规避互联网封锁的基石。混淆将 Network 流量伪装成常规的 Web 浏览，审查者无从分辨；质押自由意味着，由于误封的成本过高，审查机构不会阻止无法明确分辨的流量。':
+    'Traffic obfuscation and bail freedom are the cornerstones of effectively circumventing Internet censorship. Obfuscation disguises Network traffic as normal web browsing, leaving censors indistinguishable; bail freedom means that due to the high cost of false blocking, censorship agencies will not block traffic that cannot be clearly distinguished.',
+  'TCP2 是一个流量转发软件平台。它支持多种代理协议，并允许这些协议与多种传输层协议配合使用。而 TCP 是这个平台上原创的代理协议。与 TLS 传输方式配合使用的时候，他可以完美模拟 HTTPS 上网浏览。':
+    'TCP2 is a traffic forwarding software platform. It supports multiple proxy protocols and allows these protocols to be used with multiple transport layer protocols. TCP is an original proxy protocol on this platform. When used with TLS transport, it can perfectly simulate HTTPS web browsing.',
   '我们不记录用户流量内容。但是，为了解决滥用问题，我们会记录您的部分活动信息。日志条目包括时间，源地址，目标地址和流量。我们不会实时监控您的网路通讯内容，但我们会进行事后审核。如果您的数据被司法传召，我们可能会与执法部门配合。':
     'We do not record user traffic content. However, in order to solve abuse problems, we will record some of your activity information. Log entries include time, source address, destination address and traffic. We will not monitor your network communication content in real time, but we will conduct retrospective audits. If your data is judicially summoned, we may cooperate with law enforcement agencies.',
   '对于运行Windows、 macOS 和Linux 的个人计算机，有多个客户端可以助您保护网路通讯；对于运行iOS 和Android 的移动设备，为数不少的客户端App 可助您顺畅上网；更赞的是，对于开源路由器平台，如OpenWRT、Tomato 和Asus Merlin，连接到 UnPanel 只需安装一个插件。':
@@ -419,7 +419,7 @@ langs.enUS = {
         User Service Agreement" (hereinafter referred to as "Agreement") to ensure that you fully understand each clause in this Agreement.
         Please read carefully and choose to accept or not accept this Agreement. Unless you accept all the terms of this Agreement, 
         you have no right to register, log in or use the services involved in this Agreement. Your registration, login, use, etc. will be deemed as acceptance of this Agreement, and you agree to be bound by the terms of this Agreement. This Agreement stipulates 
-        the rights and obligations between {appName} and users regarding "SSR" services (hereinafter referred to as "services"). "User" refers to individuals who register, log in and use this service. {appName} has the right to update the agreement content, 
+        the rights and obligations between {appName} and users regarding "影-梭R" services (hereinafter referred to as "services"). "User" refers to individuals who register, log in and use this service. {appName} has the right to update the agreement content, 
         and the updated terms of the agreement will replace the original terms of the agreement once announced, without further notice.
 </p>  
 <h6>Account registration</h6>

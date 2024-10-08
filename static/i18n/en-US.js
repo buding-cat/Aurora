@@ -398,7 +398,7 @@ langs.enUS = {
     'We can support almost all electronic devices on the market. Given that we support a variety of open source and proprietary Network protocols, we believe you can easily connect to our Network network on almost any commercially available device.',
   'Network 是虚拟专用网络（Virtual Private Network）的缩写。它通过在公共网络上建立专用隧道并加密其中传输的数据来保护两个或多个设备之间的通信。':
     'Network is the abbreviation of Virtual Private Network. It establishes private tunnels over public networks and encrypts data transmission to protect communication between two or more devices.',
-  '影-梭（简称 SS，又称影梭）是一种加密的无状态代理协议。它在传输层工作，中继 TCP 和 UDP 流量。它可以轻松穿透最强大的国家级防火墙（中国的 GFW ）。':
+  '影-梭（影-梭，又称影-梭）是一种加密的无状态代理协议。它在传输层工作，中继 TCP 和 UDP 流量。':
     "影-梭 (abbreviated as SS, also known as ShadowShuttle) is an encrypted stateless proxy protocol. It works at the transport layer and relays TCP and UDP traffic. It can easily penetrate the most powerful national firewall (China's GFW).",
   '我们接受世界各地发行的主要信用卡。包括 Visa、 MasterCard、 American Express、 Discover、 Diners Club、 JCB 和中国银联。':
     'We accept major credit cards issued around the world, including Visa, MasterCard, American Express, Discover, Diners Club, JCB and China UnionPay.',

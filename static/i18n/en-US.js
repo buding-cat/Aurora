@@ -160,7 +160,7 @@ langs.enUS = {
   '确认重置': 'Confirm reset',
   '确认修改': 'Confirm modification',
   '确认密码': 'Confirm password',
-  '稳定穿墙': 'Stable wall piercing',
+  '稳定访问': 'Stable wall piercing',
   '立即开始': 'Start now',
   '立即加入': 'Join now',
   '立即支付': 'Pay now',
@@ -282,7 +282,7 @@ langs.enUS = {
   '确定要重置订阅信息？': 'Are you sure you want to reset the subscription information?',
   '确定要取消该订单吗？': 'Are you sure you want to cancel this order?',
   '检测到还有没支付的订单': 'Unpaid orders detected',
-  '绑定Telegram': 'Bind Telegram',
+  '绑定蓝飞机': 'Bind 蓝飞机',
   '请输入邀请码（必填）': 'Please enter the invitation code (required)',
   '请输入邀请码（选填）': 'Please enter the invitation code (optional)',
   '你们接受哪些付款方式？': 'What payment methods do you accept?',
@@ -301,7 +301,7 @@ langs.enUS = {
   '使用的流量将乘以倍率进行扣除': 'The used traffic will be deducted multiplied by the multiple',
   '划转后的余额仅用于X消费使用': 'The balance after transfer is only used for {name} consumption',
   '大陆首选 亚洲区最佳 Network': 'Mainland first choice Best Network in Asia',
-  '打开 Telegram 搜索': 'Open Telegram Search',
+  '打开 蓝飞机 搜索': 'Open 蓝飞机 Search',
   '立即尝试多协议 Network 服务': 'Try multi-protocol Network service immediately',
   '银行户口、电邮密码、个人资料': 'Bank accounts, email passwords, personal information',
   '什么是 Network ？它有何帮助？': 'What is a Network? How can it help?',
@@ -321,10 +321,10 @@ langs.enUS = {
   '一个服务，对接多种协议，应对多样网路环境。': 'One service, compatible with multiple protocols, adapts to diverse network environments.',
   '请注意，变更订阅会导致当前订阅被新订阅覆盖。':
     'Please note that modifying the subscription will cause the current subscription to be overwritten by the new subscription.',
-  '能穿越最严酷的防火墙 - 中国的 GFW。': "Can penetrate the harshest firewall - China's GFW.",
+  '能穿越最严酷的拦截器 ': "Can penetrate the harshest firewall .",
   '请检查您的URL是否正确, 或点击重新登录': 'Please check if your URL is correct or click to log in again',
   '为什么你们的私有 Network 协议能做到稳定高速？': 'Why can your proprietary Network protocol achieve stable high speed?',
-  '绑定Telegram Bot，获取更多便捷服务': 'Bind Telegram Bot to get more convenient services',
+  '绑定蓝飞机 Bot，获取更多便捷服务': 'Bind 蓝飞机 Bot to get more convenient services',
   '无状态和无连接减少流量模式特征提高设备电源效率。':
     'Stateless and connectionless reduce traffic patterns to improve device power efficiency.',
   '我们理解互联网自由的原理，并在我们的代码中付诸实践。':
@@ -349,7 +349,7 @@ langs.enUS = {
     'Headquartered in the United States, a team of professionally trained computer scientists and network engineers.',
   '即使通过公共WiFi上网，高强度数据加密也能保护你的私隐不被监视。':
     'Even when accessing the Internet through public WiFi, high-strength data encryption can protect your privacy from being monitored.',
-  '最先进流量隐藏技术，将Network穿墙流量化身网页浏览，免于防火墙干扰。':
+  '最先进流量隐藏技术，将Network穿墙流量化身网页浏览，免于拦截器干扰。':
     'The most advanced traffic hiding technology disguises Network wall-piercing traffic as web browsing to avoid firewall interference.',
   '私密浏览？浏览器无痕模式不够。我们的Network为您隐藏IP以掩藏踪迹。':
     'Private browsing? Incognito mode in browsers is not enough. Our Network hides your IP to cover your tracks.',
@@ -361,8 +361,8 @@ langs.enUS = {
     'Choose freely from 38 server clusters in 8 countries and regions. You can go anywhere on the network.',
   '对于来自中国的客户，我们的支付宝接口将支付流程简化为二维码扫描。轻松一秒过。':
     'For customers from China, our Alipay interface simplifies the payment process to QR code scanning. Easy one second pass.',
-  '提供Telegram、邮件、工单7x24小时客服支持，帮助客户解决疑难问题。':
-    'Provide Telegram, email, and work order 7x24 hour customer support to help customers solve difficult problems.',
+  '提供在线、邮件、工单7x24小时客服支持，帮助客户解决疑难问题。':
+    'Provide 蓝飞机, email, and work order 7x24 hour customer support to help customers solve difficult problems.',
   '支持Android、iOS、MacOS、Windows、Linux、路由器。': 'Support Android, iOS, MacOS, Windows, Linux, routers.',
   '我们以极高的价格购买市面上最好线路。所以, 别再为他人的米其林餐厅账单付费啦。':
     "We buy the best routes on the market at very high prices. So don't pay for someone else's Michelin restaurant bill anymore.",
@@ -384,11 +384,11 @@ langs.enUS = {
     'We believe our pricing structure is fair and reasonable. Some so-called unlimited traffic merchants will use some garbage lines, resulting in a very poor internet experience.',
   '如阻止每一个连接，随之而来的附带质押损害及其昂贵，也就促使审查机构放行看似合规的网路流量。这样，才有了我们的质押自由。':
     'Blocking every connection would lead to collateral damages and high costs, prompting censorship agencies to pass seemingly compliant network traffic. This is how we have bail freedom.',
-  '在防火墙检查时，混淆后的 Network 流量看似普通网上冲浪或电影串流。因此，审查者无法确定哪些流量需要阻止，哪些流量可以放行。':
+  '在拦截器检查时，混淆后的 Network 流量看似普通网上冲浪或电影串流。因此，审查者无法确定哪些流量需要阻止，哪些流量可以放行。':
     'When the firewall checks, the obfuscated Network traffic looks like normal online surfing or movie streaming. Therefore, censors cannot determine which traffic needs to be blocked and which traffic can pass.',
-  '影-梭 是一种无连接无状态的代理协议。它承载 TCP UDP 数据，可轻松穿透世界上最强国家防火墙，中国的 GFW 。':
-    "影-梭 is a connectionless and stateless proxy protocol. It carries TCP UDP data and can easily penetrate the world's strongest national firewall, China's GFW.",
-  '我们自研的私有协议，可以模拟多种网页浏览场景。使得防火墙无法可靠区分 Network 数据浏览。如强行阻拦亦会影响正常使用网络，因此连接无法有效拦截。':
+  '影-梭 是一种无连接无状态的代理协议。它承载 TCP UDP 数据，可轻松穿透世界上最强国家拦截器。':
+    "影-梭 is a connectionless and stateless proxy protocol. It carries TCP UDP data and can easily penetrate the world's strongest national firewall.",
+  '我们自研的私有协议，可以模拟多种网页浏览场景。使得拦截器无法可靠区分 Network 数据浏览。如强行阻拦亦会影响正常使用网络，因此连接无法有效拦截。':
     'Our proprietary protocol can simulate a variety of web browsing scenarios, making it impossible for firewalls to reliably distinguish between Network data browsing. Forced blocking will also affect normal network use, so the connection cannot be effectively intercepted.',
   'Network 提供了一系列好处：通过加密，通讯数据变得难以破解；藉由隧道，线上活动的细节内容被掩藏；借助转发，网路流量看似来自无关的 IP 地址和地理位置。':
     'Network provides a series of benefits: through encryption, communication data becomes difficult to crack; through tunnels, the details of online activities are hidden; with the help of forwarding, network traffic appears to come from unrelated IP addresses and locations.',
@@ -396,10 +396,10 @@ langs.enUS = {
     'Expires on {expiredDate}, {expiredResidue} left until expiration, used traffic will be reset {resetDay} days later',
   '市面上几乎所有的电子设备，我们都能支持。鉴于我们支援多种开源和自研的 Network 协议，我们相信您可以在几乎任何市售设备上轻松连接到我们的 Network 网络。':
     'We can support almost all electronic devices on the market. Given that we support a variety of open source and proprietary Network protocols, we believe you can easily connect to our Network network on almost any commercially available device.',
-  'Network 是虚拟专用网络（Virtual Private Network）的缩写。它通过在公共网络上建立专用隧道并加密其中传输的数据来保护两个或多个设备之间的通信。':
-    'Network is the abbreviation of Virtual Private Network. It establishes private tunnels over public networks and encrypts data transmission to protect communication between two or more devices.',
+  'Network 是虚拟专用网络（Interconnected Network）的缩写。它通过在公共网络上建立专用隧道并加密其中传输的数据来保护两个或多个设备之间的通信。':
+    'Network is the abbreviation of Interconnected Network. It establishes private tunnels over public networks and encrypts data transmission to protect communication between two or more devices.',
   '影-梭（影-梭，又称影-梭）是一种加密的无状态代理协议。它在传输层工作，中继 TCP 和 UDP 流量。':
-    "影-梭 (abbreviated as SS, also known as ShadowShuttle) is an encrypted stateless proxy protocol. It works at the transport layer and relays TCP and UDP traffic. It can easily penetrate the most powerful national firewall (China's GFW).",
+    "影-梭 (abbreviated as SS, also known as ShadowShuttle) is an encrypted stateless proxy protocol. It works at the transport layer and relays TCP and UDP traffic. It can easily penetrate the most powerful national firewall .",
   '我们接受世界各地发行的主要信用卡。包括 Visa、 MasterCard、 American Express、 Discover、 Diners Club、 JCB 和中国银联。':
     'We accept major credit cards issued around the world, including Visa, MasterCard, American Express, Discover, Diners Club, JCB and China UnionPay.',
   '影-梭R（简称 影-梭R）是 SS 的主要分支。在 SS 的基础上，影-梭R 修补了安全漏洞，扩展了密码套件选项，增加了流量混淆，并提高了运营商级别的 QoS 优先级。':
